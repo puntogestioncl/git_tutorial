@@ -1,2 +1,2 @@
-public class Money <{
+public class Money {
 }
